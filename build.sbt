@@ -1,5 +1,5 @@
-name := "socketapp"
-version := "0.1.0"
+name := $name$
+version := $name$
 scalaVersion := "3.0.0-M2-bin-20201108-3938388-NIGHTLY"
 
 Compile / scalaSource := baseDirectory.value / "source-scala"
