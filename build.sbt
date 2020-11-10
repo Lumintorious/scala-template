@@ -1,5 +1,5 @@
-name := $name$
-version := $name$
+name := "simple-app"
+version := "0.0.0"
 scalaVersion := "3.0.0-M2-bin-20201108-3938388-NIGHTLY"
 
 Compile / scalaSource := baseDirectory.value / "source-scala"
